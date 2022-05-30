@@ -1,3 +1,1 @@
-console.log('ccc');
-
-const a = 123
+const b = 'b1'
