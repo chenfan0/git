@@ -1,3 +1,3 @@
 console.log('aaa');
 
-const a = 'origin'
+const a = 'local'
