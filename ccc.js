@@ -4,4 +4,4 @@ const b = 'b12'
 const a = 'reabse'
 
 
-const c = 'rebase'
+const c = 'reb'
